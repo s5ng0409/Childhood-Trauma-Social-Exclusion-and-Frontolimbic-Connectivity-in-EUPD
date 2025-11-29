@@ -1,0 +1,5 @@
+Condition,Test,Statistic,p_value
+Inclusion,Welch t-test,-0.07848284185602276,0.93792192141628
+Inclusion,Mann-Whitney U,146.0,0.8554860429429798
+Exclusion,Welch t-test,0.23529259102550348,0.815438337075072
+Exclusion,Mann-Whitney U,155.0,0.9340238702253595
